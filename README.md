@@ -4,7 +4,7 @@ This project is to create jitter plot overlaid by violin plots for James Bay usi
 This work is a part of [COast-JB Project - Coastal oceanography of eastern James Bay](https://www.creegeoportal.ca/climate-change/).
 
 ## How to use the R script?
-* Put the extracted data (Extected_*.RData) in the same folder as the Rscript [Jitterplots.R](https://github.com/rakeshkstp/jitterplotsJB/blob/main/Jitterplots.R).
+* Put the extracted data (Extracted_*.RData) in the same folder as the Rscript [Jitterplots.R](https://github.com/rakeshkstp/jitterplotsJB/blob/main/Jitterplots.R).
 * Install the required libraries.
   * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/) 
   * [lubridate](https://cran.r-project.org/web/packages/lubridate/)
