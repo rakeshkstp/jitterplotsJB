@@ -17,4 +17,4 @@ This work is a part of [COast-JB Project - Coastal oceanography of eastern James
 Rscript Jitterplots.R
 ```
 ## Author
-** Rakesh Kumar Singh **
+**Rakesh Kumar Singh**
