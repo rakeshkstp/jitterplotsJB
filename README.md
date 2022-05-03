@@ -1,4 +1,4 @@
-# Create Jitter plot for James Bay using Generic Mapping Tool v6.0
+# Create Jitter plot for James Bay using R (ggplot2)
 
 This project is to create jitter plot overlaid by violin plots for James Bay using the extracted data for all the stations from MODIS-Aqua images between 2003 and 2021.
 This work is a part of [COast-JB Project - Coastal oceanography of eastern James Bay](https://www.creegeoportal.ca/climate-change/).
