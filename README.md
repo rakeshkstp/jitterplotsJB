@@ -16,5 +16,7 @@ This work is a part of [COast-JB Project - Coastal oceanography of eastern James
 ```
 Rscript Jitterplots.R
 ```
+## Output
+![](https://github.com/rakeshkstp/jitterplotsJB/blob/main/JB_Jitterplot_Stations.png)
 ## Author
 **Rakesh Kumar Singh**
